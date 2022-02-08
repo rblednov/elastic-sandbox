@@ -13,7 +13,7 @@ import ru.alfa.elasticsandbox.dto.SitePage;
 @AllArgsConstructor
 public class FullHtmlPageIndex {
     private final ElasticsearchOperations elasticsearchOperations;
-    private static final String FULL_HTML_PAGE_INDEX = "FullHtmlPageIndex";
+    private static final String FULL_HTML_PAGE_INDEX = "full_html_page_index01";
 
     public IndexQuery createIndexQueryForHtmlPage(SitePage sitePage) {
         return new IndexQueryBuilder().withId(sitePage.getUrl()).withObject(sitePage).build();
