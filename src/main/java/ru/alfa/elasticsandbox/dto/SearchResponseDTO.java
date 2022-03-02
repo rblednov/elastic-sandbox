@@ -7,12 +7,14 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
 
+import ru.alfa.elasticsandbox.dto.pageindex.SitePage;
+
 @AllArgsConstructor
 @Getter
 @Setter
 @Builder
-public class SitePage {
-    private final String htmlBody;
-    private final String url;
-    private final Map<String, List<String>> headers;
+public class SearchResponseDTO {
+    private final Float score;
+    private final SitePage document;
+    private final Map<String, List<String>> highlightFields;
 }

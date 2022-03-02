@@ -2,56 +2,37 @@
 /everyday/debit-cards/yandexcard/
 
 /get-money/credit-cards/faq/oformlenie-kreditnoj-karty-inostrannymi-grazhdanami/
-[X-Forwarded-For: 5.149.159.36]
-[Cookie: site_city=peterburg]
 /make-money/investments/promo/kak-zarabotat-na-investiciyakh-bolshe/
-[X-Forwarded-For: 5.149.159.36]
-[Cookie: site_city=peterburg]
+
 /lp/retail/sidimdoma/
-[X-Forwarded-For: 176.59.134.159]
-[Cookie: None]
 /get-money/
-[X-Forwarded-For: 176.59.134.159]
-[Cookie: None]
+
 /everyday/online/alfamobile/
-[X-Forwarded-For: 176.59.134.159]
-[Cookie: None]
+
 /get-money/mortgage/refin_ab/
-[X-Forwarded-For: 217.12.96.20]
-[Cookie: None]
+
 /make-money/investments/promo/lajfkhaki-dlya-vashikh-investicij/
-[X-Forwarded-For: 217.12.96.20]
-[Cookie: None]
+
 /make-money/investments/promo/sekrety-uspeshnykh-investicij/
-[X-Forwarded-For: 217.12.96.20]
-[Cookie: None]
+
 /get-money/credit-cards/perekrestok/
-[X-Forwarded-For: 62.117.75.130]
-[Cookie: site_city=moscow]
+
 /make-money/investments/iir/profile/
-[X-Forwarded-For: 217.12.96.20]
-[Cookie: None]
+
 /about/society/life-line/actionlife2014/
-[X-Forwarded-For: 62.117.75.130]
-[Cookie: site_city=moscow]
+
 /sme/profits/overdraft/
-[X-Forwarded-For: 176.15.207.62]
-[Cookie: None]
+
 /make-money/investments/iir/profile/balanced/
-[X-Forwarded-For: 176.15.207.62]
-[Cookie: None]
+
 /make-money/investments/promo/pust-dengi-rabotayut-na-vas/
-[X-Forwarded-For: 185.48.36.76]
-[Cookie: None]
+
 /lp/fr/
-[X-Forwarded-For: 185.48.36.76]
-[Cookie: None]
+
 /lp/retail/black-friday/
-[X-Forwarded-For: 185.48.36.76]
-[Cookie: None]
+
 /sme/start/faq/dokumenty-dlya-otkrytiya-ooo/
-[X-Forwarded-For: 185.48.36.76]
-[Cookie: None]
+
 /sme/start-copy/
 [X-Forwarded-For: 185.48.36.76]
 [Cookie: None]
