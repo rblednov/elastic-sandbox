@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import ru.alfa.elasticsandbox.dto.SearchResponseDTO;
 import ru.alfa.elasticsandbox.dto.pageindex.SitePage;
 import ru.alfa.elasticsandbox.service.SiteService;
 import ru.alfa.elasticsandbox.index.FullPageIndex;
