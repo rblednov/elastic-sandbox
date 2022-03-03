@@ -55,6 +55,7 @@ public class FullPageIndex {
         QueryBuilder searchQuery = QueryBuilders.multiMatchQuery("body", queryString)
                 .fuzziness("AUTO");
 
+
         return elasticsearchOperations
                 .search(searchQuery, SitePage.class,
                         IndexCoordinates.of(indexId));
